@@ -1,0 +1,3 @@
+[submodule "CSSCraft/CSSCraft"]
+	path = CSSCraft/CSSCraft
+	url = https://github.com/Necr0/CSSCraft
